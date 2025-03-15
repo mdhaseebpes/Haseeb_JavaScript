@@ -14,7 +14,6 @@ BONUS: Create an array totals containing the total values, so the bill + tip.
 TEST DATA: 125, 555, and 44.
 */
 
-
 const calcTip = function(bill) {
     return bill >=50 && bill <=300 ? bill * 0.15 : bill* 0.2 ;
 }

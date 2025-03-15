@@ -50,4 +50,3 @@ switch(day.toLowerCase()) {
 //     console.log("continue journey");
 // }
 
-
